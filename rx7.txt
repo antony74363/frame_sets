@@ -1,0 +1,21 @@
+<html>
+<style>
+body { background-repeat: no-repeat; background-size: cover; }
+</style>
+<head>
+</head>
+<body background="fd.gif">
+<center><font color="pink" face="ariel" size="4">
+<h1><b>MAZDA FD-RX7</b></h1>
+<img src="fdlogo.png" alt="image" height="200" width="250">
+
+
+<button type="button"><a href="Leftframe.html" target="lf">Back</a></button>
+</center>
+
+
+
+
+</font>
+</body>
+</html>
